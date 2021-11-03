@@ -30,3 +30,19 @@ C:\Users\antho\repos\FirstProjectFrom MemorySimpleCalculator\obj\Debug\net5.0\Fi
 C:\Users\antho\repos\FirstProjectFrom MemorySimpleCalculator\obj\Debug\net5.0\ref\FirstProject.dll
 C:\Users\antho\repos\FirstProjectFrom MemorySimpleCalculator\obj\Debug\net5.0\FirstProject.pdb
 C:\Users\antho\repos\FirstProjectFrom MemorySimpleCalculator\obj\Debug\net5.0\FirstProject.genruntimeconfig.cache
+C:\Users\antho\repos\FirstProjectSimpleCalculator\bin\Debug\net5.0\FirstProject.exe
+C:\Users\antho\repos\FirstProjectSimpleCalculator\bin\Debug\net5.0\FirstProject.deps.json
+C:\Users\antho\repos\FirstProjectSimpleCalculator\bin\Debug\net5.0\FirstProject.runtimeconfig.json
+C:\Users\antho\repos\FirstProjectSimpleCalculator\bin\Debug\net5.0\FirstProject.runtimeconfig.dev.json
+C:\Users\antho\repos\FirstProjectSimpleCalculator\bin\Debug\net5.0\FirstProject.dll
+C:\Users\antho\repos\FirstProjectSimpleCalculator\bin\Debug\net5.0\ref\FirstProject.dll
+C:\Users\antho\repos\FirstProjectSimpleCalculator\bin\Debug\net5.0\FirstProject.pdb
+C:\Users\antho\repos\FirstProjectSimpleCalculator\obj\Debug\net5.0\FirstProject.csproj.AssemblyReference.cache
+C:\Users\antho\repos\FirstProjectSimpleCalculator\obj\Debug\net5.0\FirstProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antho\repos\FirstProjectSimpleCalculator\obj\Debug\net5.0\FirstProject.AssemblyInfoInputs.cache
+C:\Users\antho\repos\FirstProjectSimpleCalculator\obj\Debug\net5.0\FirstProject.AssemblyInfo.cs
+C:\Users\antho\repos\FirstProjectSimpleCalculator\obj\Debug\net5.0\FirstProject.csproj.CoreCompileInputs.cache
+C:\Users\antho\repos\FirstProjectSimpleCalculator\obj\Debug\net5.0\FirstProject.dll
+C:\Users\antho\repos\FirstProjectSimpleCalculator\obj\Debug\net5.0\ref\FirstProject.dll
+C:\Users\antho\repos\FirstProjectSimpleCalculator\obj\Debug\net5.0\FirstProject.pdb
+C:\Users\antho\repos\FirstProjectSimpleCalculator\obj\Debug\net5.0\FirstProject.genruntimeconfig.cache
